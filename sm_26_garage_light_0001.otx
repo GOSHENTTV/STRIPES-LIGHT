@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image sm_26_garage_light_0001.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}
